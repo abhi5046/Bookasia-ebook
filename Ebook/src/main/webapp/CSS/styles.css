@@ -1,0 +1,20 @@
+.bg-custom{
+	background-color:#e91e63;
+}
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:black;
+	border-radius:20px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.head{
+	font-family: 'DM Serif Display', serif
+}
+
